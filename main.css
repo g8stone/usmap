@@ -69,7 +69,8 @@ body{
 }
 
 #info-box h4{
-  font-weight: 400;
+  font-weight: 300; 
+  font-style: italics;
   color: #111111;
   font-size: 30px;
 }
